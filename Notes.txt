@@ -1,0 +1,28 @@
+
+
+// pug çevirici
+https://html2jade.org/
+
+// session store için redis kullanılır....
+
+https://github.com/tj/connect-redis
+
+// redis mac & linux
+https://redis.io/
+
+// redis windows
+http://github.com/microsoftarchive/redis
+
+// Keylord
+https://protonail.com/keylord/download
+
+
+// secket.io
+npm install socket.io --save
+
+// socketio socket.io-redis
+https://github.com/socketio/socket.io-redis
+
+
+// jfromaniello/passport.socketio
+//npm install passport.socketio --save

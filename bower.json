@@ -1,0 +1,10 @@
+{
+  "name": "chatbaba",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/OmerCatalkaya/ChatPop",
+  "dependencies": {
+    "angular": "^1.7.5"
+  }
+}
